@@ -1,0 +1,3 @@
+streamlit>=1.36,<2
+experta==1.9.4
+frozendict==2.3.8
